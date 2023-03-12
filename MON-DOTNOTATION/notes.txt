@@ -1,0 +1,4 @@
+Monday Notes
+
+Logical Operators       &&    || 
+Comparative Operators   
